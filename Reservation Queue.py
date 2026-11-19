@@ -1,3 +1,4 @@
+# Python code that processes restaurant reservations
 # Importing the queue and time methods
 import queue
 import time
